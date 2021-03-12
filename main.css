@@ -41,6 +41,7 @@ body {
 .top-section p {
     color: hsl(218, 22%, 67%);
     padding: 10px 0;
+    line-height: 25px;
 }
 
 /* bottom section layout */
